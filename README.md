@@ -86,9 +86,3 @@
 </details>
 
 ---
-
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=kryptik-dev&icon=3&color=8" alt="Profile Views" />
-  </a>
-</div>
